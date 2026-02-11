@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "クオリア",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-02-11T10:49:40.120380Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クオリア",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_クオリア_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クオリア",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/02_クオリア_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "クオリア",
+      "artist": "yanaginagi",
+      "has_synced": false,
+      "path": "select/03_クオリア_yanaginagi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "クオリア",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/04_クオリア_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "クオリア(ALL TIME BEST ver.)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/05_クオリア(ALL_TIME_BEST_ver.)_UVERworld.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クオリア",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_クオリア_UVERworld.txt"
+    }
+  ]
+}
